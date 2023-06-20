@@ -133,7 +133,6 @@
   margin-left: 27px;
   background: #dedce4;
   border-radius: 16px;
-  border: none solid black;
 }
 .half-circle {
   position: absolute;
@@ -221,7 +220,6 @@ input {
 }
 .pencil-background {
   background: hsl(255, 13%, 88%);
-  border: none solid #5030e5;
   padding: 5px;
   width: 25px;
   height: 25px;
@@ -233,7 +231,6 @@ input {
   width: 25px;
   height: 25px;
   border-radius: 5px;
-  border: none solid #5030e5;
 }
 .profile-image-1 {
   border-radius: 50%;
@@ -331,7 +328,6 @@ input {
   height: 600px;
   background: #dedce4;
   border-radius: 16px;
-  border: none solid black;
 }
 .box1-dots {
   position: absolute;
